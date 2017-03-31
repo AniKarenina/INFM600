@@ -1,0 +1,500 @@
+LastName,FirstName,Vessel,Rig,ApproximateDeparture,FullName,Age,Height,Skin,Hair,Eye,Residence,Rank,Lay ,Remarks,Voyage number,VesselNumber
+Brayton,W. H.,A. B. Cook,Brig,8/4/1868,W. H. Brayton,20,5'5,Light,Light,,Trenton,,,,4,791
+Brown,Tom,A. B. Cook,Brig,8/4/1868,Tom Brown,21,5'9,Light,Light,,Connecticut,,,,4,791
+Brown,T. S.,A. B. Cook,Brig,8/4/1868,T. S. Brown,21,5'9,Light,Brown,,Penn,,,,4,791
+Buckley,Jos.,A. B. Cook,Brig,8/4/1868,Jos. Buckley,,,,,,New Bedford,,,,4,791
+Cornell,Wm. H.,A. B. Cook,Brig,8/4/1868,Wm. H. Cornell,26,5'7,Light,Light,,New Bedford,,,,4,791
+Cosman,Auguste,A. B. Cook,Brig,8/4/1868,Auguste Cosman,28,5'11,Black,Wooly,,Brava,,,,4,791
+Field,W. S.,A. B. Cook,Brig,8/4/1868,W. S. Field,,,,,,,,,,4,791
+Hanson,W. R.,A. B. Cook,Brig,8/4/1868,W. R. Hanson,27,5'6,Light,Light,,Philadelphia,,,,4,791
+Hartwig,Fred.,A. B. Cook,Brig,8/4/1868,Fred. Hartwig,22,6',Light,Light,,Germany,,,,4,791
+Hurbert,A. C.,A. B. Cook,Brig,8/4/1868,A. C. Hurbert,21,5'6,Light,Light,,New Hampshire,,,,4,791
+Johnson,John,A. B. Cook,Brig,8/4/1868,John Johnson,21,5'6,Light,Light,,Hudson,,,,4,791
+King,Jas.,A. B. Cook,Brig,8/4/1868,Jas. King,21,5'9,Light,Light,,New York,,,,4,791
+Levada,Manuel,A. B. Cook,Brig,8/4/1868,Manuel Levada,,,,,,Fayal,,,,4,791
+Lyons,Richard,A. B. Cook,Brig,8/4/1868,Richard Lyons,26,5'8,Light,Light,,Germany,,,,4,791
+Mantano,T. A.,A. B. Cook,Brig,8/4/1868,T. A. Mantano,18,5'4,Black,Black,,Brava,,,,4,791
+Norton,J.,A. B. Cook,Brig,8/4/1868,J. Norton,23,5'7,Light,Light,,New York,,,,4,791
+Sayers,C. M.,A. B. Cook,Brig,8/4/1868,C. M. Sayers,22,5'9,Light,Brown,,Canada,,,,4,791
+Smith,Geo.,A. B. Cook,Brig,8/4/1868,Geo. Smith,,,,,,New Bedford,,,,4,791
+Swain,Francis,A. B. Cook,Brig,8/4/1868,Francis Swain,24,5'7,Dark,Dark,,Chile,,,,4,791
+Voorhees,W. H.,A. B. Cook,Brig,8/4/1868,W. H. Voorhees,,,,,,Nantucket,,,,4,791
+Waldow,L.,A. B. Cook,Brig,8/4/1868,L. Waldow,27,5'6,Light,Light,,Germany,,,,4,791
+Almeda,Joaquin Alves,A. E. Whyland,Schr,7/27/1912,Joaquin Alves Almeda,26,,Dark,Dark,,"New Bedford, MA",,,,8,743
+Alves,Manuel,A. E. Whyland,Schr,7/27/1912,Manuel Alves,36,,Dark,Dark,,"New Bedford, MA",,,,8,743
+Alves,Manuel,A. E. Whyland,Schr,3/14/1915,Manuel Alves,,,,,,,,,,9,743
+Brent,Jose,A. E. Whyland,Schr,10/11/1910,Jose Brent,,,,,,New Bedford,,,,7,743
+Brito,Antonio,A. E. Whyland,Schr,7/27/1912,Antonio Brito,40,,Dark,Dark,,"New Bedford, MA",,,,8,743
+Britto,Jose F.,A. E. Whyland,Schr,10/11/1910,Jose F. Britto,,,,,,New Bedford,Boatsteerer,,,7,743
+Burnes,William,A. E. Whyland,Schr,4/26/1910,William Burnes,21,5'7,Light,Brown,,Boston,,,,6,743
+Clark,Albert,A. E. Whyland,Schr,10/11/1910,Albert Clark,,,,,,New Bedford,,,,7,743
+Clarke,Albert,A. E. Whyland,Schr,4/26/1910,Albert Clarke,28,5'8,White,Black,,New Bedford,,,,6,743
+Cleveland,Benjamin D.,A. E. Whyland,Schr,4/26/1910,Benjamin D. Cleveland,,,,,,,Master,,,6,743
+Coggeshall,Charles,A. E. Whyland,Schr,4/26/1910,Charles Coggeshall,60,5'6,Light,Black,,New Bedford,,,,6,743
+Cooper,Peter,A. E. Whyland,Schr,4/26/1910,Peter Cooper,21,5'7,Dark,Brown,,Boston,,,,6,743
+Correia,Jose,A. E. Whyland,Schr,7/27/1912,Jose Correia,21,,Dark,Dark,,"New Bedford, MA",,,,8,743
+Cruz,Joseph,A. E. Whyland,Schr,10/11/1910,Joseph Cruz,,,,,,New Bedford,,,,7,743
+D'almada,Andre Alves,A. E. Whyland,Schr,3/14/1915,Andre Alves D'almada,,,,,,,,,,9,743
+Delomba,Joao,A. E. Whyland,Schr,4/26/1910,Joao Delomba,36,6'2,Dark,Black,,New Bedford,,,,6,743
+Delomba,John,A. E. Whyland,Schr,10/11/1910,John Delomba,,,,,,New Bedford,,,,7,743
+Deveno,David,A. E. Whyland,Schr,7/27/1912,David Deveno,21,,White,Light,,"New Bedford, MA",,,"deserted at Fayal Oct 6, 1912",8,743
+Fernandez,Antone,A. E. Whyland,Schr,7/27/1912,Antone Fernandez,15,,Dark,Dark,,"New Bedford, MA",,,,8,743
+Flarity,Patrick,A. E. Whyland,Schr,4/26/1910,Patrick Flarity,26,5'9,Light,Dark,,Boston,Seaman,,,6,743
+Fortes,Antone,A. E. Whyland,Schr,7/27/1912,Antone Fortes,23,,Dark,Dark,,"New Bedford, MA",Seaman,,,8,743
+Fowler,John Edward,A. E. Whyland,Schr,10/11/1910,John Edward Fowler,,,,,,New Bedford,,,,7,743
+Fraize,William H.,A. E. Whyland,Schr,4/26/1910,William H. Fraize,22,5'7,Light,Brown,,Boston,,,,6,743
+Francis,Manuel,A. E. Whyland,Schr,10/11/1910,Manuel Francis,,,,,,New Bedford,,,,7,743
+Gallaghen,Joseph,A. E. Whyland,Schr,4/26/1910,Joseph Gallaghen,26,5'10,Light,Black,,Boston,,,,6,743
+Gill,Thomas,A. E. Whyland,Schr,4/26/1910,Thomas Gill,23,5'9,Light,Dark,,Boston,,,,6,743
+Gomes,Bernard,A. E. Whyland,Schr,4/26/1910,Bernard Gomes,24,5'9,Dark,Black,,New Bedford,,,,6,743
+Gomes,Manuel Joao,A. E. Whyland,Schr,3/14/1915,Manuel Joao Gomes,,,,,,,Master,,,9,743
+Gonsalves,Antone,A. E. Whyland,Schr,10/11/1910,Antone Gonsalves,,,,,,New Bedford,,,,7,743
+Gonsalvis,Antone,A. E. Whyland,Schr,4/26/1910,Antone Gonsalvis,18,5'8,Dark,Black,,New Bedford,,,,6,743
+Gracia,Antone,A. E. Whyland,Schr,4/26/1910,Antone Gracia,21,5'9,Light,Dark,,New Bedford,,,,6,743
+Hanson,Louis M.,A. E. Whyland,Schr,10/11/1910,Louis M. Hanson,,,,,,New Bedford,,,,7,743
+Hanson,Louis J. N.,A. E. Whyland,Schr,7/27/1912,Louis J. N. Hanson,25,,Light,Light,,"New Bedford, MA",,,,8,743
+Holmes,Robert,A. E. Whyland,Schr,10/11/1910,Robert Holmes,,,,,,New Bedford,,,,7,743
+Houghton,Charles,A. E. Whyland,Schr,4/26/1910,Charles Houghton,22,5'8,Light,Brown,,Boston,,,,6,743
+Jackson,Andrade,A. E. Whyland,Schr,10/11/1910,Andrade Jackson,,,,,,New Bedford,,,,7,743
+John,James,A. E. Whyland,Schr,7/27/1912,James John,22,,Dark,Dark,,"New Bedford, MA",Boatsteerer,,"deserted at Fayal Oct 6, 1912",8,743
+Johnson,Harold,A. E. Whyland,Schr,10/11/1910,Harold Johnson,,,,,,New Bedford,,,,7,743
+Lopes,John,A. E. Whyland,Schr,10/11/1910,John Lopes,,,,,,New Bedford,,,,7,743
+Lopes,John,A. E. Whyland,Schr,7/27/1912,John Lopes,23,,Dark,Dark,,"New Bedford, MA",,,,8,743
+Lopes,Peter,A. E. Whyland,Schr,7/27/1912,Peter Lopes,45,,Dark,Dark,,"New Bedford, MA",,,,8,743
+Lopes,Domingo,A. E. Whyland,Schr,3/14/1915,Domingo Lopes,,,,,,,,,,9,743
+Lopes,Frank,A. E. Whyland,Schr,3/14/1915,Frank Lopes,,,,,,,Boatsteerer,,,9,743
+Lopes,John,A. E. Whyland,Schr,3/14/1915,John Lopes,,,,,,,,,,9,743
+Lopes,Louis,A. E. Whyland,Schr,7/27/1912,Louis Lopes,,,,,,,,,,8,743
+Lopes,Louis M.,A. E. Whyland,Schr,3/14/1915,Louis M. Lopes,,,,,,,Master,,,9,743
+Lopes,Manuel,A. E. Whyland,Schr,3/14/1915,Manuel Lopes,,,,,,,,,,9,743
+Martin,Antonio,A. E. Whyland,Schr,10/11/1910,Antonio Martin,,,,,,New Bedford,,,,7,743
+Martin,Theodore,A. E. Whyland,Schr,3/14/1915,Theodore Martin,,,,,,,,,,9,743
+Maurice,Laddy,A. E. Whyland,Schr,10/11/1910,Laddy Maurice,,,,,,New Bedford,,,,7,743
+Mendes,John,A. E. Whyland,Schr,3/14/1915,John Mendes,,,,,,,,,,9,743
+Monteiro,Rosaido,A. E. Whyland,Schr,10/11/1910,Rosaido Monteiro,,,,,,New Bedford,,,,7,743
+Moriory,M.,A. E. Whyland,Schr,4/26/1910,M. Moriory,31,5'9,Light,Dark,,Boston,,,,6,743
+Morrison,John,A. E. Whyland,Schr,4/26/1910,John Morrison,22,5'8,Light,Brown,,Boston,,,,6,743
+Nanten,Alexander,A. E. Whyland,Schr,4/26/1910,Alexander Nanten,45,5'10,Dark,Black,,New Bedford,,,,6,743
+Nascimento,Joaquin,A. E. Whyland,Schr,7/27/1912,Joaquin Nascimento,25,,Dark,Dark,,"New Bedford, MA",,,,8,743
+Nausettt,Joaquim,A. E. Whyland,Schr,10/11/1910,Joaquim Nausettt,,,,,,New Bedford,,,,7,743
+Oliveira,Albert,A. E. Whyland,Schr,3/14/1915,Albert Oliveira,,,,,,,Seaman,,,9,743
+Pacheco,Joe,A. E. Whyland,Schr,3/14/1915,Joe Pacheco,,,,,,,Seaman,,,9,743
+Pickinsgill,Leslie,A. E. Whyland,Schr,7/27/1912,Leslie Pickinsgill,21,,White,Light,,Jamaica,,,"deserted at Fayal Oct 6, 1912",8,743
+Pina,Antone,A. E. Whyland,Schr,7/27/1912,Antone Pina,44,,Dark,Dark,,"New Bedford, MA",,,,8,743
+Pina,Thomas,A. E. Whyland,Schr,7/27/1912,Thomas Pina,25,,Dark,Dark,,"New Bedford, MA",,,,8,743
+Praro,Jose Carlos,A. E. Whyland,Schr,10/11/1910,Jose Carlos Praro,,,,,,New Bedford,,,,7,743
+Reed,Edwin J.,A. E. Whyland,Schr,10/11/1910,Edwin J. Reed,,,,,,,,,,7,743
+Reis,Joao Jose,A. E. Whyland,Schr,3/14/1915,Joao Jose Reis,,,,,,,Seaman,,,9,743
+Rocha,Joao,A. E. Whyland,Schr,10/11/1910,Joao Rocha,,,,,,New Bedford,,,,7,743
+Rocha,John,A. E. Whyland,Schr,7/27/1912,John Rocha,26,,Dark,Dark,,"New Bedford, MA",Seaman,,,8,743
+Rocha,John,A. E. Whyland,Schr,3/14/1915,John Rocha,,,,,,,,,,9,743
+Roderick,Joseph,A. E. Whyland,Schr,10/11/1910,Joseph Roderick,,,,,,New Bedford,,,,7,743
+Rose,Henrique,A. E. Whyland,Schr,7/27/1912,Henrique Rose,25,,Dark,Dark,,"New Bedford, MA",,,,8,743
+Rose,Jose Lireira,A. E. Whyland,Schr,7/27/1912,Jose Lireira Rose,21,,Dark,Dark,,"New Bedford, MA",,,,8,743
+Rose,Henry,A. E. Whyland,Schr,3/14/1915,Henry Rose,,,,,,,Seaman,,,9,743
+Santos,Joaquim,A. E. Whyland,Schr,4/26/1910,Joaquim Santos,40,5'8,Dark,Black,,New Bedford,,,,6,743
+Santos,Joe Lopis,A. E. Whyland,Schr,4/26/1910,Joe Lopis Santos,28,5'8,Dark,Black,,New Bedford,,,,6,743
+Silvia,Olympia,A. E. Whyland,Schr,4/26/1910,Olympia Silvia,25,5'7,Dark,Black,,New Bedford,,,,6,743
+Summers,Albert,A. E. Whyland,Schr,7/27/1912,Albert Summers,24,,White,Light,,"New Bedford, MA",,,"deserted at Fayal Oct 6, 1912",8,743
+Teccra,Manuel,A. E. Whyland,Schr,4/26/1910,Manuel Teccra,50,5'8,Dark,Black,,New Bedford,,,,6,743
+Ventura,Jose,A. E. Whyland,Schr,10/11/1910,Jose Ventura,,,,,,New Bedford,,,,7,743
+Ventura,Joseph,A. E. Whyland,Schr,4/26/1910,Joseph Ventura,39,5'11,Dark,Black,,New Bedford,,,,6,743
+Williams,George,A. E. Whyland,Schr,7/27/1912,George Williams,19,,White,Light,,"Deerfield, MA",,,"deserted at Fayal Oct 6, 1912",8,743
+Wing,Joseph,A. E. Whyland,Schr,10/11/1910,Joseph Wing,,,,,,New Bedford,,,,7,743
+Barns,William,A. Houghton,Bark,5/23/1876,William Barns,28,5'6,Dark,B,,Providence,,,,13,807
+Barry,Thomas,A. Houghton,Bark,5/23/1876,Thomas Barry,35,5'7 1/2,Light,Brown,,New York,,,,13,807
+Bolles,George H.,A. Houghton,Bark,5/23/1876,George H. Bolles,25,5'6,Light,B,,New Bedford,,,,13,807
+Butts,Albert N.,A. Houghton,Bark,5/23/1876,Albert N. Butts,24,5'7,Light,Brown,,New Bedford,,,,13,807
+Clarke,William,A. Houghton,Bark,5/23/1876,William Clarke,26,5'7 1/2,Light,Brown,,"Lodice, Nj",,,,13,807
+Cornell,Sydney J.,A. Houghton,Bark,5/23/1876,Sydney J. Cornell,20,5'10 1/2,Light,Brown,,"Westport, Ma",,,,13,807
+Cronan,Edward,A. Houghton,Bark,5/23/1876,Edward Cronan,23,5'7,Light,Brown,,"Frankin, ME",Master,,,13,807
+Elkin,Washington L.,A. Houghton,Bark,5/23/1876,Washington L. Elkin,23,5'10 1/2,Light,Brown,,New York,Seaman,,,13,807
+Gifford,Thomas C.,A. Houghton,Bark,5/23/1876,Thomas C. Gifford,31,5'6,Light,Brown,,New Bedford,,,,13,807
+Hammett,Hiram W.,A. Houghton,Bark,5/23/1876,Hiram W. Hammett,25,5'9,Light,Brown,,Chilmark,,,,13,807
+Hatfield,Richard,A. Houghton,Bark,5/23/1876,Richard Hatfield,30,5'3,Light,Brown,,New York,,,,13,807
+Hathaway,Edward,A. Houghton,Bark,5/23/1876,Edward Hathaway,23,5'8 3/4,Light,Dark,,Philadelphia,,,,13,807
+Hill,Edward F.,A. Houghton,Bark,5/23/1876,Edward F. Hill,25,5'3,Light,Brown,,New York,,,,13,807
+Lake,John,A. Houghton,Bark,5/23/1876,John Lake,28,5'7 1/2,Light,Brown,,Tiverton,,,,13,807
+Lee,Oliver,A. Houghton,Bark,5/23/1876,Oliver Lee,23,5'4,Light,Sandy,,New Bedford,,,,13,807
+Marley,John F.,A. Houghton,Bark,5/23/1876,John F. Marley,23,5'5,Light,B,,"Portland, Me",,,,13,807
+Mcdermott,William H.,A. Houghton,Bark,5/23/1876,William H. Mcdermott,20,5'9 1/2,Light,Brown,,South Boston,,,,13,807
+Mcgivney,John,A. Houghton,Bark,5/23/1876,John Mcgivney,25,5'7,Dark,B,,New Haven,,,,13,807
+Mclyster,William H.,A. Houghton,Bark,5/23/1876,William H. Mclyster,48,5'6,Light,Light,,New Bedford,,,,13,807
+Miller,Gustave,A. Houghton,Bark,5/23/1876,Gustave Miller,21,5'9,Light,Light,,Norway,,,,13,807
+Moran,Nicholas,A. Houghton,Bark,5/23/1876,Nicholas Moran,21,5'10,Light,Dark,,New York,,,,13,807
+Mortimer,William,A. Houghton,Bark,5/23/1876,William Mortimer,23,5'8 1/2,Dark,Dark,,Saint Helena,,,,13,807
+Murray,William F.,A. Houghton,Bark,5/23/1876,William F. Murray,17,5'6,Light,Brown,,Saint Helena,,,,13,807
+O'connel,Daniel,A. Houghton,Bark,5/23/1876,Daniel O'connel,22,5'9,Light,Brown,,Ireland,,,,13,807
+Simmons,Henry B.,A. Houghton,Bark,5/23/1876,Henry B. Simmons,27,5'4,Dark,Dark,,Cincinnati,,,,13,807
+Sinclair,James G.,A. Houghton,Bark,5/23/1876,James G. Sinclair,,,,,,,Master,,,13,807
+Speiel,Christian,A. Houghton,Bark,5/23/1876,Christian Speiel,21,5'10,Dark,Dark,,Hamburg,,,,13,807
+Tower,Willie F.,A. Houghton,Bark,5/23/1876,Willie F. Tower,18,5'3 1/2,Light,Brown,,New Bedford,,,,13,807
+Wady,William J.,A. Houghton,Bark,5/23/1876,William J. Wady,31,5'8,Dark,B,,Dartmouth,,,,13,807
+Washington,William,A. Houghton,Bark,5/23/1876,William Washington,22,6'0,Light,Brown,,New York,,,,13,807
+Welch,James,A. Houghton,Bark,5/23/1876,James Welch,22,5'7,Light,Brown,,Fall River,,,,13,807
+Anderson,John,A. J. Ross,Brig,7/16/1877,John Anderson,23,5'5,,Brown,,Norway,,,,14,431
+Baptist,Joseph,A. J. Ross,Brig,5/14/1878,Joseph Baptist,18,"5'7""",Dark,Black,,"Brava, Cape Verde",,,,15,431
+Barber,Willis E.,A. J. Ross,Brig,5/14/1878,Willis E. Barber,26,"5'2""",Light,Light,,"Bellingham, MA",,,,15,431
+Booth,William P,A. J. Ross,Brig,7/16/1877,William P Booth,35,5'8.5,Light,Light,,New Bedford,,,,14,431
+Butts,Albert N.,A. J. Ross,Brig,5/14/1878,Albert N. Butts,26,"5'7""",Light,Light,,New Bedford,,,,15,431
+Cornell,Sidney G.,A. J. Ross,Brig,5/14/1878,Sidney G. Cornell,22,"5'10""",Light,Brown,,Westport,,,,15,431
+Crapo,Edgar W,A. J. Ross,Brig,7/16/1877,Edgar W Crapo,37,5'11.5,Light,Brown,,"Sisle, Ny/Dartmouth",,,,14,431
+Darvell,William J,A. J. Ross,Brig,7/16/1877,William J Darvell,32,5'5.5,,Brown,,Boston,Seaman,,,14,431
+Deboro,Joseph,A. J. Ross,Brig,5/14/1878,Joseph Deboro,18,"5'7""",Dark,Black,,"Brava, Cape Verde",,,,15,431
+Dwight,Joseph,A. J. Ross,Brig,5/14/1878,Joseph Dwight,17,"5'8""",Dark,Black,,"Brava, Cape Verde",,,,15,431
+Ferguson,Thomas,A. J. Ross,Brig,5/14/1878,Thomas Ferguson,64,"5'61/2""",Light,Gray,,"Belfast, Ireland",,,,15,431
+Gifford,John C,A. J. Ross,Brig,7/16/1877,John C Gifford,29,5'5.5,Light,Brown,,Fairhaven,,,,14,431
+Gothro,Philip,A. J. Ross,Brig,5/14/1878,Philip Gothro,28,"5'6""",Light,Light,,"Kingston, NB",1st Mate,,,15,431
+Goulding,John,A. J. Ross,Brig,5/14/1878,John Goulding,22,"5'7""",Light,Light,,"Saint John, New Brunswick",,,,15,431
+Hammatt,H.w.,A. J. Ross,Brig,5/14/1878,H.w. Hammatt,27,"5'7""",Light,Brown,,Chilmark,,,,15,431
+Hathaway,Edward,A. J. Ross,Brig,5/14/1878,Edward Hathaway,22,"5'7""",Light,Brown,,"Philadelphia, Pa",,,,15,431
+Hayden,Lothrop A.,A. J. Ross,Brig,5/14/1878,Lothrop A. Hayden,18,"5'8""",Light,Light,,Wareham,,,,15,431
+Heminsley,William,A. J. Ross,Brig,5/14/1878,William Heminsley,19,"5'8""",Light,Light,,"Birmingham, Eng",,,,15,431
+Howland,Henry C,A. J. Ross,Brig,7/16/1877,Henry C Howland,46,5'7,Light,Light,,Dartmouth,,,,14,431
+Howland,Thomas H,A. J. Ross,Brig,7/16/1877,Thomas H Howland,21,5'9,Light,Brown,,Fairhaven,,,,14,431
+Hyatt,James N,A. J. Ross,Brig,7/16/1877,James N Hyatt,47,5'10,Dark,Brown,,Williamsburg,Master,,,14,431
+Jameson,James,A. J. Ross,Brig,7/16/1877,James Jameson,26,5'3.5,,Brown,,"Portsmouth, Nh",,,,14,431
+Johnson,James,A. J. Ross,Brig,7/16/1877,James Johnson,22,5'8,Light,Brown,,"Montreal, Canada",,,,14,431
+Johnson,Fritz,A. J. Ross,Brig,7/16/1877,Fritz Johnson,26,5'7.5,Light,Brown,,Sweden,,,,14,431
+Kelly,Daniel,A. J. Ross,Brig,7/16/1877,Daniel Kelly,26,5'6,,Brown,,"Malden, MA",,,,14,431
+Lapham,Frank,A. J. Ross,Brig,5/14/1878,Frank Lapham,19,"5'11""",Light,Light,,Wareham,,,,15,431
+Lee,Charles,A. J. Ross,Brig,5/14/1878,Charles Lee,21,"5'4""",Light,Auburn,,New Bedford,,,,15,431
+Madden,John,A. J. Ross,Brig,7/16/1877,John Madden,31,5'5,Light,Auburn,,Boston,,,,14,431
+Marley,John,A. J. Ross,Brig,5/14/1878,John Marley,24,"5'3""",Light,Black,,"Portland, Me",,,,15,431
+Mcclean,Alex,A. J. Ross,Brig,5/14/1878,Alex Mcclean,19,"5'7""",Light,Light,,Fall River,,,,15,431
+Mcguire,Luke,A. J. Ross,Brig,7/16/1877,Luke Mcguire,19,5'5.5,Dark,Black,,"Taunton, Ma",,,,14,431
+Peirce,Sidney F,A. J. Ross,Brig,7/16/1877,Sidney F Peirce,34,5'6,Light,Brown,,New Bedford,,,,14,431
+Peirce,Sidney F.,A. J. Ross,Brig,5/14/1878,Sidney F. Peirce,34,"5'71/2""",Light,Light,,New Bedford,,,,15,431
+Peterson,Frank,A. J. Ross,Brig,7/16/1877,Frank Peterson,25,5'9,,Brown,,Sweden,,,,14,431
+Potter,Rufus H,A. J. Ross,Brig,7/16/1877,Rufus H Potter,21,5'7.5,,Brown,,"Oxford, Me",,,,14,431
+Randall,Geo. F.,A. J. Ross,Brig,5/14/1878,Geo. F. Randall,32,5',Light,Auburn,,Rochester,,,,15,431
+Silva,John J.,A. J. Ross,Brig,5/13/1878,John J. Silva,33,"5'8""",Dark,Black,,Azores,,,,2755,431
+Sinclair,James G.,A. J. Ross,Brig,5/14/1878,James G. Sinclair,,,,,,,Master,,,15,431
+Sullivan,John,A. J. Ross,Brig,7/16/1877,John Sullivan,21,5'9,,Brown,,"Lunenburg, Ns",,,,14,431
+Thomas,Kelly,A. J. Ross,Brig,7/16/1877,Kelly Thomas,21,5'7.5,,Brown,,Chicopee,,,,14,431
+Tilton,Geo F,A. J. Ross,Brig,7/16/1877,Geo F Tilton,17,5'10,,Sandy,,Chilmark,,,,14,431
+Whitaker,Richard B.,A. J. Ross,Brig,5/14/1878,Richard B. Whitaker,22,"5'9""",Light,Light,,Fall River,,,,15,431
+Williams,George E,A. J. Ross,Brig,7/16/1877,George E Williams,22,5'7,,Red,,Boston,,,,14,431
+Witzell,Paul,A. J. Ross,Brig,7/16/1877,Paul Witzell,21,5'7,,Auburn,,Germany,,,,14,431
+Wixen,Orick W,A. J. Ross,Brig,7/16/1877,Orick W Wixen,16,5'6,,Brown,,"Dennis, MA",,,,14,431
+Alameda,Stephen,A. M. Nicholson,Schr,5/3/1911,Stephen Alameda,,,,,,New Bedford,,,,20,745
+Allaine,Alfred,A. M. Nicholson,Schr,6/8/1920,Alfred Allaine,,,,,,,2nd Mate,,,31,745
+Allen,John,A. M. Nicholson,Schr,9/29/1909,John Allen,23,5'7,Dark,Dark,,Lawrence,,,,19,745
+Allen,Olin E. H. Jr.,A. M. Nicholson,Schr,4/23/1914,Olin E. H. Jr. Allen,,,,,,,,,,25,745
+Almeida,Antone,A. M. Nicholson,Schr,5/1/1912,Antone Almeida,,,,,,"New Bedford, MA",,,,21,745
+Almeida,Jose,A. M. Nicholson,Schr,6/8/1920,Jose Almeida,,,,,,,,,,31,745
+Almeida,Thomas,A. M. Nicholson,Schr,4/8/1922,Thomas Almeida,,,,,,,,,,33,745
+Alves,Antonio Jose,A. M. Nicholson,Schr,10/2/1917,Antonio Jose Alves,,,,,,,,,,28,745
+Alves,Manuel,A. M. Nicholson,Schr,2/11/1913,Manuel Alves,,,,,,,,,,22,745
+Alves,Samuel,A. M. Nicholson,Schr,2/5/1917,Samuel Alves,,,,,,,Boatsteerer,,,26,745
+Andrews,John,A. M. Nicholson,Schr,4/23/1914,John Andrews,,,,,,,,,,25,745
+Antone,Louis,A. M. Nicholson,Schr,10/14/1918,Louis Antone,,,,,,,,,,29,745
+Antoniom,Francisco,A. M. Nicholson,Schr,6/26/1917,Francisco Antoniom,,,,,,,,,,27,745
+Arengo,John,A. M. Nicholson,Schr,6/26/1917,John Arengo,,,,,,,,,,27,745
+Armuel,Jose,A. M. Nicholson,Schr,9/29/1909,Jose Armuel,30,5'8,Light,Brown,,New Bedford,,,,19,745
+Atone,Joaquin,A. M. Nicholson,Schr,5/1/1912,Joaquin Atone,,,,,,"New Bedford, MA",,,,21,745
+Badge,Frank,A. M. Nicholson,Schr,9/29/1909,Frank Badge,25,5'6,Light,Light,,"Somerville, Ma",,,,19,745
+Baptista,John J.,A. M. Nicholson,Schr,10/14/1918,John J. Baptista,,,,,,,,,,29,745
+Baptista,Pedro,A. M. Nicholson,Schr,2/5/1917,Pedro Baptista,,,,,,,,,,26,745
+Barboza,Lawrence J.,A. M. Nicholson,Schr,6/8/1920,Lawrence J. Barboza,,,,,,,1st Mate,,,31,745
+Barnes,Joseph J.,A. M. Nicholson,Schr,5/1/1912,Joseph J. Barnes,,,,,,Boston,,,,21,745
+Barros,Joao Antonio,A. M. Nicholson,Schr,11/1/1920,Joao Antonio Barros,,,,,,,,,,745,745
+Barros,Manuel Daluiz,A. M. Nicholson,Schr,11/1/1920,Manuel Daluiz Barros,,,,,,,Boatsteerer,,,745,745
+Barry,Alfred E.,A. M. Nicholson,Schr,9/29/1909,Alfred E. Barry,22,5'7,Dark,Black,,New Bedford,,,,19,745
+Bealles,Robert J.,A. M. Nicholson,Schr,6/8/1920,Robert J. Bealles,,,,,,,,,,31,745
+Bento,Joseph,A. M. Nicholson,Schr,10/2/1917,Joseph Bento,,,,,,,,,,28,745
+Bento,Manuel,A. M. Nicholson,Schr,4/8/1922,Manuel Bento,,,,,,,Seaman,,,33,745
+Berkley,John,A. M. Nicholson,Schr,9/29/1909,John Berkley,22,5'8,Dark,Dark,,Lynn,Boatsteerer,,,19,745
+Bodge,Louis,A. M. Nicholson,Schr,5/3/1911,Louis Bodge,,,,,,"Charlestown, Ma",,,,20,745
+Bodge,Frank,A. M. Nicholson,Schr,5/3/1911,Frank Bodge,,,,,,"Somerville, Ma",,,,20,745
+Borards,M.,A. M. Nicholson,Schr,9/29/1909,M. Borards,22,5'6,Dark,Brown,,New York,,,,19,745
+Bossels,Arthur P.,A. M. Nicholson,Schr,5/1/1912,Arthur P. Bossels,,,,,,Everett,,,,21,745
+Bradshaw,Frank,A. M. Nicholson,Schr,4/8/1922,Frank Bradshaw,,,,,,,,,,33,745
+Braso,Henry J.,A. M. Nicholson,Schr,10/2/1917,Henry J. Braso,,,,,,,,,,28,745
+Brito,Manuel F.,A. M. Nicholson,Schr,2/5/1917,Manuel F. Brito,,,,,,,,,,26,745
+Britto,Jose,A. M. Nicholson,Schr,5/1/1912,Jose Britto,,,,,,"New Bedford, MA",Boatsteerer,,,21,745
+Brown,Lawrnece,A. M. Nicholson,Schr,5/1/1912,Lawrnece Brown,,,,,,Allston,,,,21,745
+Brown,Louis,A. M. Nicholson,Schr,2/11/1913,Louis Brown,,,,,,,,,,22,745
+Cabral,Avaleta Jose,A. M. Nicholson,Schr,11/1/1920,Avaleta Jose Cabral,,,,,,,,,,745,745
+Cabral,Joao Manuel,A. M. Nicholson,Schr,4/8/1922,Joao Manuel Cabral,,,,,,,,,,33,745
+Cabral,Joao Manuel,A. M. Nicholson,Schr,6/8/1920,Joao Manuel Cabral,,,,,,,,,,31,745
+Camaron,Henry,A. M. Nicholson,Schr,4/23/1914,Henry Camaron,,,,,,,,,,25,745
+Cardoza,Benjamin,A. M. Nicholson,Schr,5/3/1911,Benjamin Cardoza,,,,,,New Bedford,,,,20,745
+Cardoza,Joao,A. M. Nicholson,Schr,6/26/1917,Joao Cardoza,,,,,,,Seaman,,,27,745
+Cardoza,Pedro Francisco,A. M. Nicholson,Schr,11/1/1920,Pedro Francisco Cardoza,,,,,,,2nd Mate,,,745,745
+Carlow,Francis,A. M. Nicholson,Schr,2/5/1917,Francis Carlow,,,,,,,,,,26,745
+Caspar,James,A. M. Nicholson,Schr,4/23/1914,James Caspar,,,,,,,Greenhand,,,25,745
+Cate,Arthur,A. M. Nicholson,Schr,9/29/1909,Arthur Cate,22,5'5,Light,Brown,,Medford,,,,19,745
+Cesares,Antonio Jose,A. M. Nicholson,Schr,10/2/1917,Antonio Jose Cesares,,,,,,,,,,28,745
+Chace,Charles A.,A. M. Nicholson,Schr,10/14/1918,Charles A. Chace,,,,,,,Master,,,29,745
+Chapman,Max,A. M. Nicholson,Schr,10/14/1918,Max Chapman,,,,,,,,,did not sail,29,745
+Christian,George P.,A. M. Nicholson,Schr,4/23/1914,George P. Christian,,,,,,,,,,25,745
+Church,Charles S.,A. M. Nicholson,Schr,4/23/1914,Charles S. Church,,,,,,,Master,,,25,745
+Church,Charlotte E.,A. M. Nicholson,Schr,4/23/1914,Charlotte E. Church,,,,,,,,,,25,745
+Coreira,Dominic,A. M. Nicholson,Schr,11/1/1920,Dominic Coreira,,,,,,,,,,745,745
+Correia,Miguel V.,A. M. Nicholson,Schr,4/8/1922,Miguel V. Correia,,,,,,,,,,33,745
+Corvea,Arafel,A. M. Nicholson,Schr,6/26/1917,Arafel Corvea,,,,,,,,,,27,745
+Corvea,Enas,A. M. Nicholson,Schr,6/26/1917,Enas Corvea,,,,,,,Seaman,,,27,745
+Cosca,Jose Miguel,A. M. Nicholson,Schr,4/8/1922,Jose Miguel Cosca,,,,,,,,,,33,745
+Costa,Joao Manuel,A. M. Nicholson,Schr,11/1/1920,Joao Manuel Costa,,,,,,,,,,745,745
+Cross,Maurise,A. M. Nicholson,Schr,5/3/1911,Maurise Cross,,,,,,"Ipswich, Ma",,,,20,745
+Cruz,Joe,A. M. Nicholson,Schr,4/8/1922,Joe Cruz,,,,,,,,,,33,745
+Cruz,Seraphine,A. M. Nicholson,Schr,2/11/1913,Seraphine Cruz,,,,,,,,,,22,745
+Dasilva,Julio,A. M. Nicholson,Schr,11/1/1920,Julio Dasilva,,,,,,,,,,745,745
+Davol,Robert,A. M. Nicholson,Schr,6/8/1920,Robert Davol,,,,,,,,,,31,745
+Deane,Alfred,A. M. Nicholson,Schr,5/1/1912,Alfred Deane,,,,,,Manchester,,,,21,745
+Deburgo,Jose,A. M. Nicholson,Schr,2/5/1917,Jose Deburgo,,,,,,,,,,26,745
+Decosta,Jule,A. M. Nicholson,Schr,5/3/1911,Jule Decosta,,,,,,New Bedford,,,,20,745
+Degrass,Vito,A. M. Nicholson,Schr,5/3/1911,Vito Degrass,,,,,,New Bedford,,,,20,745
+Delgado,Cecilio,A. M. Nicholson,Schr,2/11/1913,Cecilio Delgado,,,,,,,,,,22,745
+Dennett,Albert,A. M. Nicholson,Schr,5/1/1912,Albert Dennett,,,,,,Boston,,,,21,745
+Desantos,Alphonse,A. M. Nicholson,Schr,5/1/1912,Alphonse Desantos,,,,,,United States,Seaman,,,21,745
+Dias,Frank Ramos,A. M. Nicholson,Schr,11/1/1920,Frank Ramos Dias,,,,,,,,,,745,745
+Dickie,Thomas,A. M. Nicholson,Schr,9/29/1909,Thomas Dickie,22,5'9,Brown,Brown,,Arlington,,,,19,745
+Domingos,Jose,A. M. Nicholson,Schr,10/2/1917,Jose Domingos,,,,,,,Steward,,,28,745
+Doyle,John J.,A. M. Nicholson,Schr,4/23/1914,John J. Doyle,,,,,,,,,,25,745
+Drake,Fred,A. M. Nicholson,Schr,4/23/1914,Fred Drake,,,,,,,Master,,,25,745
+Duarte,Antone,A. M. Nicholson,Schr,5/3/1911,Antone Duarte,,,,,,New Bedford,,,,20,745
+Dunham,Murry E.,A. M. Nicholson,Schr,6/8/1920,Murry E. Dunham,,,,,,,,,,31,745
+Eaton,Wilbur C.,A. M. Nicholson,Schr,5/3/1911,Wilbur C. Eaton,,,,,,Boston,,,,20,745
+Enos,Antonio,A. M. Nicholson,Schr,5/3/1911,Antonio Enos,,,,,,New Bedford,,,,20,745
+Farquhar,Arthur,A. M. Nicholson,Schr,9/29/1909,Arthur Farquhar,24,5'8,Light,Brown,,New Bedford,,,,19,745
+Fernandes,Marceleno,A. M. Nicholson,Schr,6/26/1917,Marceleno Fernandes,,,,,,,,,,27,745
+Ferreira,Jose M.,A. M. Nicholson,Schr,4/8/1922,Jose M. Ferreira,,,,,,,Boatsteerer,,,33,745
+Fisher,Henry G.,A. M. Nicholson,Schr,4/23/1914,Henry G. Fisher,,,,,,,,,,25,745
+Flagel,Charles W.,A. M. Nicholson,Schr,2/11/1913,Charles W. Flagel,,,,,,,Boatheader,,,22,745
+Foley,John R.,A. M. Nicholson,Schr,5/3/1911,John R. Foley,,,,,,Boston,Seaman,,,20,745
+Fortes,Benjamin,A. M. Nicholson,Schr,6/26/1917,Benjamin Fortes,,,,,,,,,,27,745
+Fortes,John,A. M. Nicholson,Schr,6/8/1920,John Fortes,,,,,,,,,,31,745
+Francesco,Eugenia,A. M. Nicholson,Schr,6/8/1920,Eugenia Francesco,,,,,,,,,,31,745
+Francis,Nicholas,A. M. Nicholson,Schr,5/3/1911,Nicholas Francis,,,,,,New Bedford,,,,20,745
+Frates,John,A. M. Nicholson,Schr,11/1/1920,John Frates,,,,,,,,,,745,745
+Freitas,Frank M.,A. M. Nicholson,Schr,2/5/1917,Frank M. Freitas,,,,,,,,,,26,745
+Furness,Fred,A. M. Nicholson,Schr,9/29/1909,Fred Furness,21,5'4,Light,Brown,,New Bedford,Greenhand,,,19,745
+Gallagher,Joseph,A. M. Nicholson,Schr,5/1/1912,Joseph Gallagher,,,,,,"Dorchester, MA",,,,21,745
+Garmaraco,Joao,A. M. Nicholson,Schr,4/8/1922,Joao Garmaraco,,,,,,,,,,33,745
+Geneto,Fracesco Pedro,A. M. Nicholson,Schr,11/1/1920,Fracesco Pedro Geneto,,,,,,,"Shipkeeper, Seaman",,,745,745
+George,Richard,A. M. Nicholson,Schr,9/29/1909,Richard George,52,5'3,Light,Gray,,New Bedford,,,,19,745
+George,Bertie,A. M. Nicholson,Schr,2/5/1917,Bertie George,,,,,,,Steward,,,26,745
+Gomes,Bernard,A. M. Nicholson,Schr,5/1/1912,Bernard Gomes,,,,,,"New Bedford, MA",,,,21,745
+Gomes,Antonio P.,A. M. Nicholson,Schr,4/8/1922,Antonio P. Gomes,,,,,,,Seaman,,,33,745
+Gomes,August P.,A. M. Nicholson,Schr,11/1/1920,August P. Gomes,,,,,,,,,,32,745
+Gomes,August P.,A. M. Nicholson,Schr,2/5/1917,August P. Gomes,,,,,,,2nd Mate,,,26,745
+Gomes,Manael,A. M. Nicholson,Schr,4/23/1914,Manael Gomes,,,,,,,Master,,,25,745
+Gomes,Manuel,A. M. Nicholson,Schr,10/2/1917,Manuel Gomes,,,,,,,,,,28,745
+Gomes,Paul Nafine,A. M. Nicholson,Schr,4/8/1922,Paul Nafine Gomes,,,,,,,,,,33,745
+Gonsalves,Henry,A. M. Nicholson,Schr,11/1/1920,Henry Gonsalves,,,,,,,Boatsteerer,,,745,745
+Gonsalves,John T.,A. M. Nicholson,Schr,10/2/1917,John T. Gonsalves,,,,,,,Master,,,28,745
+Gonsalves,John T.,A. M. Nicholson,Schr,6/26/1917,John T. Gonsalves,,,,,,,Master,,,27,745
+Gonsalves,John T.,A. M. Nicholson,Schr,2/5/1917,John T. Gonsalves,,,,,,,Master,,,26,745
+Gracias,Joe,A. M. Nicholson,Schr,10/14/1918,Joe Gracias,,,,,,,,,,29,745
+Grenada,Raymond,A. M. Nicholson,Schr,4/23/1914,Raymond Grenada,,,,,,,,,,25,745
+Griffith,William,A. M. Nicholson,Schr,9/29/1909,William Griffith,49,5'7,Light,Brown,,"Tiverton, Ri",,,,19,745
+Harrington,Frank,A. M. Nicholson,Schr,5/1/1912,Frank Harrington,,,,,,Boston,,,,21,745
+Haskins,Wilson A.,A. M. Nicholson,Schr,6/8/1920,Wilson A. Haskins,,,,,,,Greenhand,,,31,745
+Hazell,Charles W.,A. M. Nicholson,Schr,5/1/1912,Charles W. Hazell,,,,,,"New Bedford, MA",,,,21,745
+Henderson,Lee,A. M. Nicholson,Schr,4/23/1914,Lee Henderson,,,,,,,Greenhand,,,25,745
+Henry,Emanuel,A. M. Nicholson,Schr,5/3/1911,Emanuel Henry,,,,,,New Bedford,,,,20,745
+Hersey,Emanuel,A. M. Nicholson,Schr,9/29/1909,Emanuel Hersey,22,5'5,Dark,Black,,New Bedford,,,,19,745
+Hurley,Lawrence,A. M. Nicholson,Schr,5/1/1912,Lawrence Hurley,,,,,,"Portsmouth, Nh",,,,21,745
+James,Philip,A. M. Nicholson,Schr,4/8/1922,Philip James,,,,,,,Seaman,,,33,745
+John,A. Alves,A. M. Nicholson,Schr,2/11/1913,A. Alves John,,,,,,,Seaman,,,22,745
+Johnson,Charles,A. M. Nicholson,Schr,10/2/1917,Charles Johnson,,,,,,,,,,28,745
+Johnson,James,A. M. Nicholson,Schr,6/26/1917,James Johnson,,,,,,,,,,27,745
+Jon,Westward,A. M. Nicholson,Schr,2/11/1913,Westward Jon,,,,,,,Steward,,,22,745
+Joquim,Joao,A. M. Nicholson,Schr,2/11/1913,Joao Joquim,,,,,,,3rd Mate,,,22,745
+Kenkil,W. P.,A. M. Nicholson,Schr,6/26/1917,W. P. Kenkil,,,,,,,Seaman,,,27,745
+King,L.,A. M. Nicholson,Schr,10/2/1917,L. King,,,,,,,Seaman,,,28,745
+Knabe,Ernest,A. M. Nicholson,Schr,6/26/1917,Ernest Knabe,,,,,,,Seaman,,,27,745
+Kolasz,John,A. M. Nicholson,Schr,4/8/1922,John Kolasz,,,,,,,Seaman,,,33,745
+Lafrance,Joseph,A. M. Nicholson,Schr,4/8/1922,Joseph Lafrance,,,,,,,Seaman,,,33,745
+Landen,Claudido,A. M. Nicholson,Schr,5/3/1911,Claudido Landen,,,,,,New Bedford,,,,20,745
+Lawrence,Pedro,A. M. Nicholson,Schr,4/8/1922,Pedro Lawrence,,,,,,,1st Mate,,,33,745
+Lefote,Winifred,A. M. Nicholson,Schr,9/29/1909,Winifred Lefote,22,5'10,Dark,Dark,,Melrose,,,,19,745
+Leger,Fred,A. M. Nicholson,Schr,4/8/1922,Fred Leger,,,,,,,Seaman,,,33,745
+Leite,John,A. M. Nicholson,Schr,11/1/1920,John Leite,,,,,,,Cook,,,745,745
+Leite,Joseph,A. M. Nicholson,Schr,11/1/1920,Joseph Leite,,,,,,,Cook,,,745,745
+Lichfield,E. E.,A. M. Nicholson,Schr,5/3/1911,E. E. Lichfield,,,,,,New Bedford,Cook,,,20,745
+Lichfield,E. E.,A. M. Nicholson,Schr,2/11/1913,E. E. Lichfield,,,,,,,,,,22,745
+Lignell,Forester L.,A. M. Nicholson,Schr,6/8/1920,Forester L. Lignell,,,,,,,Greenhand,,,31,745
+Lima,John,A. M. Nicholson,Schr,10/2/1917,John Lima,,,,,,,Seaman,,,28,745
+Litchfield,Elmer,A. M. Nicholson,Schr,9/29/1909,Elmer Litchfield,45,5'8,Light,Brown,,New Bedford,,,,19,745
+Litchfiled,E. E.,A. M. Nicholson,Schr,5/1/1912,E. E. Litchfiled,,,,,,"New Bedford, MA",,,,21,745
+Lopes,John M.,A. M. Nicholson,Schr,5/1/1912,John M. Lopes,,,,,,Harwich,,,,21,745
+Lopes,Peter,A. M. Nicholson,Schr,9/29/1909,Peter Lopes,26,5'7,Dark,Black,,New Bedford,,,,19,745
+Lopes,Evylin,A. M. Nicholson,Schr,5/1/1912,Evylin Lopes,,,,,,"New Bedford, MA",,,,21,745
+Lopes,Joao,A. M. Nicholson,Schr,11/1/1920,Joao Lopes,,,,,,,Boatheader,,,745,745
+Lopes,Jose D.,A. M. Nicholson,Schr,6/8/1920,Jose D. Lopes,,,,,,,1st Mate,,,31,745
+Lopes,Jose Lius,A. M. Nicholson,Schr,6/26/1917,Jose Lius Lopes,,,,,,,2nd Mate,,,27,745
+Lopes,Manuel,A. M. Nicholson,Schr,6/26/1917,Manuel Lopes,,,,,,,,,,27,745
+Lopes,Manuel S.,A. M. Nicholson,Schr,10/2/1917,Manuel S. Lopes,,,,,,,Boatsteerer,,,28,745
+Lopes,Richard,A. M. Nicholson,Schr,10/14/1918,Richard Lopes,,,,,,,Boatheader,,,29,745
+Mairie,Ashley,A. M. Nicholson,Schr,6/26/1917,Ashley Mairie,,,,,,,Cook,,,27,745
+Mannas,Edward,A. M. Nicholson,Schr,4/23/1914,Edward Mannas,,,,,,,Cook,,,25,745
+Martin,Thomas,A. M. Nicholson,Schr,9/29/1909,Thomas Martin,26,5'7,Dark,Brown,,Marblehead,,,,19,745
+Martin,Felippe,A. M. Nicholson,Schr,4/8/1922,Felippe Martin,,,,,,,Seaman,,,33,745
+Matoes,Pedro Joao,A. M. Nicholson,Schr,11/1/1920,Pedro Joao Matoes,,,,,,,Seaman,,,745,745
+Mcconville,Earnest,A. M. Nicholson,Schr,4/23/1914,Earnest Mcconville,,,,,,,Seaman,,,25,745
+Mcnally,John,A. M. Nicholson,Schr,6/8/1920,John Mcnally,,,,,,,Greenhand,,,31,745
+Mendes,Frank,A. M. Nicholson,Schr,6/8/1920,Frank Mendes,,,,,,,Cook,,,31,745
+Monteiro,Antonio,A. M. Nicholson,Schr,10/2/1917,Antonio Monteiro,,,,,,,3rd Mate,,,28,745
+Moraes,Emanuel J.,A. M. Nicholson,Schr,11/1/1920,Emanuel J. Moraes,,,,,,,Seaman,,,745,745
+Morey,Frank,A. M. Nicholson,Schr,6/26/1917,Frank Morey,,,,,,,Seaman,,,27,745
+Moriaty,Edward,A. M. Nicholson,Schr,4/8/1922,Edward Moriaty,,,,,,,Seaman,,,33,745
+Morote,John Pascal,A. M. Nicholson,Schr,4/8/1922,John Pascal Morote,,,,,,,Seaman,,,33,745
+Moveir,Vincielias,A. M. Nicholson,Schr,6/26/1917,Vincielias Moveir,,,,,,,Seaman,,,27,745
+Murray,Maurice,A. M. Nicholson,Schr,9/29/1909,Maurice Murray,37,5'5,Dark,Brown,,New Bedford,,,,19,745
+Parkhurst,Edward N.,A. M. Nicholson,Schr,5/1/1912,Edward N. Parkhurst,,,,,,Somerville,,,,21,745
+Peck,John T.,A. M. Nicholson,Schr,11/1/1920,John T. Peck,,,,,,,Boatsteerer,,,745,745
+Peck,John T.,A. M. Nicholson,Schr,4/23/1914,John T. Peck,,,,,,,Steward,,,25,745
+Perry,Jose,A. M. Nicholson,Schr,5/3/1911,Jose Perry,,,,,,New Bedford,,,,20,745
+Perry,Henry D.,A. M. Nicholson,Schr,5/1/1912,Henry D. Perry,,,,,,"New Bedford, MA",3rd Mate,,,21,745
+Perry,Frank,A. M. Nicholson,Schr,4/23/1914,Frank Perry,,,,,,,,,,25,745
+Perry,Manuel,A. M. Nicholson,Schr,10/14/1918,Manuel Perry,,,,,,,,,,29,745
+Phillips,Thomas,A. M. Nicholson,Schr,9/29/1909,Thomas Phillips,27,5'10,Dark,Black,,New Bedford,,,,19,745
+Pina,Baptisto,A. M. Nicholson,Schr,10/14/1918,Baptisto Pina,,,,,,,Seaman,,,29,745
+Piva,Domini,A. M. Nicholson,Schr,10/14/1918,Domini Piva,,,,,,,Boatsteerer,,,29,745
+Poindexter,Massie,A. M. Nicholson,Schr,6/26/1917,Massie Poindexter,,,,,,,Seaman,,,27,745
+Portes,Joquim,A. M. Nicholson,Schr,2/5/1917,Joquim Portes,,,,,,,"Steward, Boatsteerer",,,26,745
+Prenny,Lewis,A. M. Nicholson,Schr,4/23/1914,Lewis Prenny,,,,,,,Greenhand,,,25,745
+Ramos,Antone,A. M. Nicholson,Schr,4/8/1922,Antone Ramos,,,,,,,,,,33,745
+Ramos,Antonio,A. M. Nicholson,Schr,11/1/1920,Antonio Ramos,,,,,,,Cook,,,745,745
+Ramos,Francisco,A. M. Nicholson,Schr,4/8/1922,Francisco Ramos,,,,,,,,,,33,745
+Reed,George A.,A. M. Nicholson,Schr,5/3/1911,George A. Reed,,,,,,New Bedford,,,,20,745
+Regan,Thomas,A. M. Nicholson,Schr,2/11/1913,Thomas Regan,,,,,,,Seaman,,,22,745
+Ritchie,Frederic,A. M. Nicholson,Schr,4/23/1914,Frederic Ritchie,,,,,,,Greenhand,,,25,745
+Robado,John,A. M. Nicholson,Schr,4/8/1922,John Robado,,,,,,,Seaman,,,33,745
+Robertson,Malcom S.,A. M. Nicholson,Schr,6/8/1920,Malcom S. Robertson,,,,,,,Cabin Boy,,,31,745
+Robidaux,A.,A. M. Nicholson,Schr,6/8/1920,A. Robidaux,,,,,,,Greenhand,,,31,745
+Rogers,Alfred J.,A. M. Nicholson,Schr,2/11/1913,Alfred J. Rogers,,,,,,,Seaman,,,22,745
+Rosa,Enos,A. M. Nicholson,Schr,4/23/1914,Enos Rosa,,,,,,,,,,25,745
+Rosa,Ernest H.,A. M. Nicholson,Schr,2/5/1917,Ernest H. Rosa,,,,,,,Cabin Boy,,,26,745
+Rose,Frank,A. M. Nicholson,Schr,6/26/1917,Frank Rose,,,,,,,,,,27,745
+Rosezette,Joseph,A. M. Nicholson,Schr,6/26/1917,Joseph Rosezette,,,,,,,Seaman,,,27,745
+Rozarios,Manuel,A. M. Nicholson,Schr,10/2/1917,Manuel Rozarios,,,,,,,Boatheader,,,28,745
+Russell,J. A.,A. M. Nicholson,Schr,6/8/1920,J. A. Russell,,,,,,,Greenhand,,,31,745
+Sabino,Antonio Luiz,A. M. Nicholson,Schr,2/5/1917,Antonio Luiz Sabino,,,,,,,Seaman,,,26,745
+Sanches,Simas,A. M. Nicholson,Schr,6/26/1917,Simas Sanches,,,,,,,Seaman,,,27,745
+Santos,Marcus A.,A. M. Nicholson,Schr,5/3/1911,Marcus A. Santos,,,,,,New Bedford,,,,20,745
+Santos,Jose,A. M. Nicholson,Schr,5/1/1912,Jose Santos,,,,,,"New Bedford, MA",,,,21,745
+Senna,Joquime,A. M. Nicholson,Schr,4/8/1922,Joquime Senna,,,,,,,Boatsteerer,,,33,745
+Sheridan,Joseph,A. M. Nicholson,Schr,9/29/1909,Joseph Sheridan,22,5'8,Light,Light,,Boston,,,,19,745
+Silva,James G.,A. M. Nicholson,Schr,6/8/1920,James G. Silva,,,,,,,Boatsteerer,,,31,745
+Silva,Joao,A. M. Nicholson,Schr,6/26/1917,Joao Silva,,,,,,,Cabin Boy,,,27,745
+Silvia,Marriania B.,A. M. Nicholson,Schr,9/29/1909,Marriania B. Silvia,22,5'7,Light,Brown,,New Bedford,,,,19,745
+Simmons,Walter,A. M. Nicholson,Schr,10/14/1918,Walter Simmons,,,,,,,Cook,,,29,745
+Simmons,William E.,A. M. Nicholson,Schr,4/8/1922,William E. Simmons,,,,,,,Steward,,,33,745
+Smith,Marian S.,A. M. Nicholson,Schr,5/1/1912,Marian S. Smith,,,,,,Dartmouth,,,,21,745
+Smith,Marian S.,A. M. Nicholson,Schr,5/3/1911,Marian S. Smith,,,,,,"Dartmouth, MA",,,,20,745
+Smith,Marian S.,A. M. Nicholson,Schr,9/29/1909,Marian S. Smith,42,4'5,Light,Light,,Massachusetts,,,,19,745
+Smith,Horace P.,A. M. Nicholson,Schr,2/11/1913,Horace P. Smith,,,,,,,Master,,,22,745
+Smith,Horace P.,A. M. Nicholson,Schr,5/1/1912,Horace P. Smith,,,,,,,Master,,,21,745
+Smith,Horace P.,A. M. Nicholson,Schr,9/29/1909,Horace P. Smith,,,,,,,Master,,,19,745
+Smith,Horace,A. M. Nicholson,Schr,5/3/1911,Horace Smith,,,,,,,,,,20,745
+Smith,Marion S.,A. M. Nicholson,Schr,2/11/1913,Marion S. Smith,,,,,,,,,,22,745
+Smyth,Robert J.,A. M. Nicholson,Schr,4/23/1914,Robert J. Smyth,,,,,,,Greenhand,,,25,745
+Soares,Peter,A. M. Nicholson,Schr,5/1/1912,Peter Soares,,,,,,"New Bedford, MA",,,,21,745
+Soares,Anntonio M.,A. M. Nicholson,Schr,10/14/1918,Anntonio M. Soares,,,,,,,Boatsteerer,,,29,745
+Soares,Antonio,A. M. Nicholson,Schr,11/1/1920,Antonio Soares,,,,,,,,,,745,745
+Spencer,Joaquim,A. M. Nicholson,Schr,5/3/1911,Joaquim Spencer,,,,,,New Bedford,,,,20,745
+Spencer,Antonio Pedro,A. M. Nicholson,Schr,11/1/1920,Antonio Pedro Spencer,,,,,,,Seaman,,,745,745
+Sterback,William F.,A. M. Nicholson,Schr,6/8/1920,William F. Sterback,,,,,,,Greenhand,,,31,745
+Sterns,John V.,A. M. Nicholson,Schr,10/14/1918,John V. Sterns,,,,,,,Steward,,,29,745
+Sylvia,Joe,A. M. Nicholson,Schr,4/23/1914,Joe Sylvia,,,,,,,,,,25,745
+Taugus,Unknown,A. M. Nicholson,Schr,10/14/1918,Unknown Taugus,,,,,,,Preventer Boatsteerer,,,29,745
+Tavaras,Antonio,A. M. Nicholson,Schr,10/2/1917,Antonio Tavaras,,,,,,,,,,28,745
+Tavares,Paul,A. M. Nicholson,Schr,5/3/1911,Paul Tavares,,,,,,New Bedford,Boatheader,,,20,745
+Tavares,Paul,A. M. Nicholson,Schr,5/1/1912,Paul Tavares,,,,,,"New Bedford, MA",,,,21,745
+Tavares,Antone,A. M. Nicholson,Schr,6/26/1917,Antone Tavares,,,,,,,,,,27,745
+Tavares,Bernard Rivero,A. M. Nicholson,Schr,6/26/1917,Bernard Rivero Tavares,,,,,,,Seaman,,,27,745
+Tavures,Paul,A. M. Nicholson,Schr,9/29/1909,Paul Tavures,27,5'10,Black,Black,,New Bedford,,,,19,745
+Taylor,Edmund B.,A. M. Nicholson,Schr,2/11/1913,Edmund B. Taylor,,,,,,,Ship Keeper,,,22,745
+Thomas,George Ernest,A. M. Nicholson,Schr,4/23/1914,George Ernest Thomas,,,,,,,Cabin Boy,,,25,745
+Thompson,John,A. M. Nicholson,Schr,10/2/1917,John Thompson,,,,,,,,,,28,745
+Thurston,Joseph,A. M. Nicholson,Schr,4/23/1914,Joseph Thurston,,,,,,,,,,25,745
+Tilton,James A.,A. M. Nicholson,Schr,6/8/1920,James A. Tilton,,,,,,,Master,,,31,745
+Tobin,John,A. M. Nicholson,Schr,6/26/1917,John Tobin,,,,,,,,,,27,745
+Toomey,W. S.,A. M. Nicholson,Schr,6/8/1920,W. S. Toomey,,,,,,,Seaman,,,31,745
+Traylor,Robert H.,A. M. Nicholson,Schr,5/1/1912,Robert H. Traylor,,,,,,Cambridge,,,,21,745
+Trudeau,Harvey,A. M. Nicholson,Schr,4/8/1922,Harvey Trudeau,,,,,,,Seaman,,,33,745
+Vieira,Rudolfo,A. M. Nicholson,Schr,4/8/1922,Rudolfo Vieira,,,,,,,Seaman,,,33,745
+Viera,John M.,A. M. Nicholson,Schr,2/11/1913,John M. Viera,,,,,,,Boatsteerer,,,22,745
+Webber,Frank,A. M. Nicholson,Schr,4/23/1914,Frank Webber,,,,,,,,,,25,745
+White,Charles B.,A. M. Nicholson,Schr,5/3/1911,Charles B. White,,,,,,"Plymouth, Ma",,,,20,745
+Williams,Thomas,A. M. Nicholson,Schr,9/29/1909,Thomas Williams,22,5'6,Light,Light,,Boston,Master,,,19,745
+Williams,James,A. M. Nicholson,Schr,5/3/1911,James Williams,,,,,,New Bedford,,,,20,745
+Williams,Frank,A. M. Nicholson,Schr,6/26/1917,Frank Williams,,,,,,,,,,27,745
+Williams,George E.,A. M. Nicholson,Schr,2/5/1917,George E. Williams,,,,,,,Boatsteerer,,,26,745
+Williams,George,A. M. Nicholson,Schr,10/2/1917,George Williams,,,,,,,,,,28,745
+Williams,George,A. M. Nicholson,Schr,6/26/1917,George Williams,,,,,,,,,,27,745
+Woodworth,Earl B.,A. M. Nicholson,Schr,6/26/1917,Earl B. Woodworth,,,,,,,Seaman,,,27,745
+Young,Jos,A. M. Nicholson,Schr,9/29/1909,Jos Young,27,5'7 1/2,Light,Brown,,New Bedford,,,,19,745
+Adams,Silas M.,A. R. Tucker,Bark,5/28/1861,Silas M. Adams,21,,Dark,Dark,,"Covington, Pa/New Bedford",,,,45,20
+Aeanjee,Jose,A. R. Tucker,Bark,10/15/1901,Jose Aeanjee,22,5'8,,,,"New Bedford, MA",,,,63,20
+Aikin,Warren A.,A. R. Tucker,Bark,5/28/1861,Warren A. Aikin,25,,Light,Brown,,Mattapoisett,,,,45,20
+Akin,Isacher H.,A. R. Tucker,Bark,6/6/1864,Isacher H. Akin,,,,,,,,,,46,20
+Akin,Varmes,A. R. Tucker,Bark,11/15/1853,Varmes Akin,,,,,,,1st Mate, 1-20,,42,20
+Akins,Fredrick H. B.,A. R. Tucker,Bark,6/2/1851,Fredrick H. B. Akins,,,,,,,Greenhand, 1-160,,41,20
+Allen,Charles E.,A. R. Tucker,Bark,5/1/1871,Charles E. Allen,25,5'10,Light,Brown,,"Syracuse, Ny",,,,49,20
+Almeida,Gomes,A. R. Tucker,Bark,10/15/1901,Gomes Almeida,26,5'8,,,,"New Bedford, MA",,,,63,20
+Antone,Manuel,A. R. Tucker,Bark,12/2/1865,Manuel Antone,25,5'7,Dark,Dark,,Azores,,,,47,20
+Antone,Maurize,A. R. Tucker,Bark,12/2/1865,Maurize Antone,20,5'5 1/2,Dark,Dark,,Flores,,,,47,20
+Antonio,Pedro,A. R. Tucker,Bark,5/28/1861,Pedro Antonio,,,,,,,,,,45,20
+Aranjo,Meguil Manuel,A. R. Tucker,Bark,10/2/1903,Meguil Manuel Aranjo,22,5'6,,,,New Bedford,,,,64,20
+Arcunor,Manuel,A. R. Tucker,Bark,10/15/1901,Manuel Arcunor,21,5'2,,,,"New Bedford, MA",,,,63,20
+Armstrong,Charles,A. R. Tucker,Bark,5/21/1887,Charles Armstrong,23,5'7,Light,Light,,Boston,,,,55,20
+Ashton,David,A. R. Tucker,Bark,10/1/1857,David Ashton,21,,Light,Dark,,Providence,,,,43,20
+Ashton,David,A. R. Tucker,Bark,10/1/1857,David Ashton,,,,,,,Greenhand, 1-165,,43,20
+Augustinr,Josr,A. R. Tucker,Bark,5/21/1887,Josr Augustinr,35,5'9,Dark,B,,Manila,Greenhand,,,55,20
+Averro,Ezedro,A. R. Tucker,Bark,6/26/1883,Ezedro Averro,23,5'5,Dark,B,,Guam,,,,54,20
+Avery,William H.,A. R. Tucker,Bark,12/11/1876,William H. Avery,41,5'7 1/4,Dark,Auburn,,"Gloversville, Ny",,,,51,20
+Babcock,Caleb,A. R. Tucker,Bark,12/2/1865,Caleb Babcock,23,5'7 1/2,Light,Brown,,Ithaca,,,,47,20
+Bacon,Francis Henry,A. R. Tucker,Bark,6/2/1851,Francis Henry Bacon,,,,,,,2nd Mate, 1-75,,41,20
+Baiilla,Steve Jose,A. R. Tucker,Bark,10/2/1903,Steve Jose Baiilla,20,5'6,,,,New Bedford,,,,64,20
+Bailey,Charles H.,A. R. Tucker,Bark,6/6/1899,Charles H. Bailey,25,5'9,Black,Black,,New Bedford,,,,60,20
+Bailey,Thomas,A. R. Tucker,Bark,6/2/1851,Thomas Bailey,,,,,,,3rd Mate, 1-10,,41,20
+Baker,Amos C. Jr.,A. R. Tucker,Bark,12/11/1876,Amos C. Jr. Baker,,,,,,,1st Mate,,,51,20
+Baker,Amos C. Jr.,A. R. Tucker,Bark,11/25/1874,Amos C. Jr. Baker,,,,,,,Master,,,50,20
+Bangs,Henry,A. R. Tucker,Bark,11/15/1853,Henry Bangs,,,,,,,Ordinary, 1-165,,42,20
+Baptiste,Joseph,A. R. Tucker,Bark,6/26/1883,Joseph Baptiste,16,5'6,Mulatto,B,,Brava,,,,54,20
+Barlow,James A.,A. R. Tucker,Bark,4/12/1880,James A. Barlow,16,5'7,Dark,Dark,,Mattapoisett,,,,53,20
+Barney,George,A. R. Tucker,Bark,10/15/1901,George Barney,23,5'3,,,,"New Bedford, MA",,,,63,20
+Barrett,Willard H.,A. R. Tucker,Bark,12/11/1876,Willard H. Barrett,17,5'6,Light,Brown,,"Milford, Ct",,,,51,20
+Barstow,Jas.,A. R. Tucker,Bark,11/11/1868,Jas. Barstow,34,5'8,Dark,Dark,,Mattapoisett,,,,48,20
+Barstow,Chas. B.,A. R. Tucker,Bark,11/11/1868,Chas. B. Barstow,,,,,,New Bedford,Master,,,48,20
+Barstow,C. B.,A. R. Tucker,Bark,11/11/1868,C. B. Barstow,,,,,,,,,,48,20
+Barto,D,A. R. Tucker,Bark,10/15/1901,D Barto,24,5'8.5,,,,"New Bedford, MA",Seaman,,,63,20
+Barton,Benjamin,A. R. Tucker,Bark,6/2/1851,Benjamin Barton,,,,,,,, 1-130,,41,20
+Bassett,Geo. W.,A. R. Tucker,Bark,11/11/1868,Geo. W. Bassett,31,5'8,Light,Dark,,New Bedford,,,,48,20
+Beebe,George W.,A. R. Tucker,Bark,10/1/1857,George W. Beebe,,,,,,,Greenhand, 1-20,,43,20
+Bennett,William,A. R. Tucker,Bark,4/21/1897,William Bennett,17,5'7,Dark,Dark,,New Bedford,,,,59,20
+Bent,John R.,A. R. Tucker,Bark,10/15/1901,John R. Bent,20,5'6,,,,"New Bedford, MA",Boatsteerer,,,63,20
+Bento,Joseph P.,A. R. Tucker,Bark,6/6/1899,Joseph P. Bento,39,5'11,Dark,Black,,New Bedford,Cook,,,60,20
+Benton,John R. L.,A. R. Tucker,Bark,11/11/1868,John R. L. Benton,18,5'11,Light,Light,,Lakeville,,,,48,20
+Benton,Wm. F.,A. R. Tucker,Bark,11/11/1868,Wm. F. Benton,19,5'9,Dark,Dark,,Lakeville,,,,48,20
+Benton,A. P.,A. R. Tucker,Bark,4/28/1891,A. P. Benton,48,5'11,Dark,B,,New Bedford,Boatheader,,,56,20
+Berse,George W.,A. R. Tucker,Bark,10/1/1857,George W. Berse,25,,Dark,Dark,,Nantucket,,,,43,20
+Birdsall,Joseph S.,A. R. Tucker,Bark,5/1/1871,Joseph S. Birdsall,21,5'2 1/2,Light,Dark,,"Marlboro, NJ",,,,49,20
+Bishop,Frank,A. R. Tucker,Bark,12/11/1876,Frank Bishop,22,5'8,Light,Brown,,"Stoughton, Ma",,,,51,20
+Booth,Herbert F.,A. R. Tucker,Bark,4/12/1880,Herbert F. Booth,26,5'6,Dark,Black,,New Bedford,,,,53,20
+Bourne,Geo W.,A. R. Tucker,Bark,5/1/1871,Geo W. Bourne,,,,,,,,,,49,20
+Boy,John B,A. R. Tucker,Bark,5/4/1895,John B Boy,24,5'8,B,Sandy,,New Bedford,,,,58,20
+Bradberry,Willim John,A. R. Tucker,Bark,11/15/1853,Willim John Bradberry,,,,,,,Ordinary, 1-165,,42,20
+Bradfield,George,A. R. Tucker,Bark,11/15/1853,George Bradfield,,,,,,,Cooper, 1-165,,42,20
+Bradon,J. Henry,A. R. Tucker,Bark,5/1/1871,J. Henry Bradon,22,5'9,Light,Brown,,New York,,,,49,20
+Breen,James,A. R. Tucker,Bark,5/4/1895,James Breen,24,5'6,Dark,Dark,,Boston,,,,58,20
+Breen,James,A. R. Tucker,Bark,4/21/1897,James Breen,25,5'7,Light,Black,,"Boston, MA",,,,59,20
+Breen,P.a.,A. R. Tucker,Bark,10/15/1901,P.a. Breen,39,5'6,,,,"East Boston, MA",,,,63,20
+Brennen,James,A. R. Tucker,Bark,4/28/1891,James Brennen,23,5'7,Dark,Dark,,Boston,,,,56,20
+Brestow,Joseph,A. R. Tucker,Bark,12/2/1865,Joseph Brestow,33,5'8 1/2,Light,Light,,Brooklyn,,,,47,20
+Brockheit Or Buckher,Fred,A. R. Tucker,Bark,4/12/1880,Fred Brockheit Or Buckher,24,5'6,Light,Light,,"Brooklyn, NY",,,,53,20
+Brown,W. E.,A. R. Tucker,Bark,4/21/1897,W. E. Brown,26,5'8,Dark,Dark,,"Boston, MA",,,,59,20
+Brown,W.,A. R. Tucker,Bark,5/2/1893,W. Brown,33,5'8,B,White,,Chicago,,,,57,20
+Brown,David E.,A. R. Tucker,Bark,6/26/1883,David E. Brown,45,6'1,Dark,Dark,,"Sag Harbor, Ny",,,,54,20
+Bruer,Sulliran,A. R. Tucker,Bark,6/2/1851,Sulliran Bruer,,,,,,,Boatsteerer, 1-75,,41,20
+Buckle,T. C.,A. R. Tucker,Bark,4/21/1897,T. C. Buckle,21,5'6,Light,Black,,"Boston, MA",,,,59,20
+Buggs,John N. Jr.,A. R. Tucker,Bark,12/11/1876,John N. Jr. Buggs,20,5'8,Dark,Dark,,New York,,,,51,20
+Bulling,Lewis H. E.,A. R. Tucker,Bark,6/26/1883,Lewis H. E. Bulling,21,5'8 1/2,Light,Sandy,,Germany,,,,54,20
+Bumpus,Jeremiah,A. R. Tucker,Bark,6/6/1864,Jeremiah Bumpus,23,5'11 1/4,Fair,Brown,,Rochester,,,,46,20
+Butler,Thomas E.,A. R. Tucker,Bark,6/6/1864,Thomas E. Butler,19,5'6 1/2,Colored,Wooly,,Boston,,,,46,20
+Butts,Charles,A. R. Tucker,Bark,12/2/1865,Charles Butts,37,5'4 1/2,Dark,Dark,,Warren,,,,47,20

@@ -1,0 +1,11 @@
+Week 4 Discussion: Collaboration in Practice
+
+The two readings for Week 4 present complementary views of collaboration principles and challenges: Kotlarsky & Oshri (2005) emphasize the value of social aspects of collaboration, while Dabbish et al. (2012) identify ways that GitHub's social features help ease the challenges of distributed work.
+
+This week's posts should focus on the following questions (try to touch on at least 2 of them):
+
+    Are INFM 600 project teams more like collocated teams, distributed teams, or some kind of hybrid? Why?
+    What strategies could INFM 600 project teams implement to improve social ties and knowledge sharing? (feel free to get creative here!)
+    How could you take advantage of transparency, visibility, and notifications in GitHub to have a smoother team project experience? There are a lot of great examples of GitHub being used for non-code collaboration; does the focus on code versus some other product make a difference?
+
+Note that you can weave your ideas into replies to others' comments: the more that this resembles a real discussion as opposed to a set of essays, the more we can get out of it (but do address the key points in the prompts!)

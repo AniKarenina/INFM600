@@ -1,0 +1,39 @@
+The following questions are to help me set up teams for a project where each team will need some specific skills.
+
+Your honest ratings of your abilities for a few specific skills will help ensure your team has a balanced skill set; nobody is expected to have extensive experience in all of these areas!
+ 
+Flag this Question
+Question 7 0 pts
+
+I have experience writing client or stakeholder deliverables and/or system or process documentation in English.
+	Lots of experience
+	Some experience
+	A little experience
+	No experience
+ 
+Flag this Question
+Question 8 0 pts
+
+I have experience presenting to peers or superiors and/or delivering training to groups in English.
+	Lots of experience
+	Some experience
+	A little experience
+	No experience
+ 
+Flag this Question
+Question 9 0 pts
+
+I have experience leading discussions and/or running meetings.
+	A lot of experience
+	Some experience
+	A little experience
+	No experience
+ 
+Flag this Question
+Question 10 0 pts
+
+I have experience working with raw data using Excel, shell/bash scripts, or other scripting languages.
+	A lot of experience
+	Some experience
+	A little experience
+	No experience

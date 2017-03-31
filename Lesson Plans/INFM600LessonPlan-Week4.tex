@@ -1,0 +1,112 @@
+\documentclass[]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[unicode=true]{hyperref}
+\hypersetup{
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+\date{}
+
+\begin{document}
+
+\textbf{Lesson Plan Week 4 INFM 600 September 21 \& 22}
+
+6:00 -- 6:05 Welcome \& overview (5 min)
+
+6:05 -- 6:20 Kotlarsky \& Oshri -- key points \& discussion
+
+6:20 -- 6:45 Activity: Iceberg Model analysis of collaboration failure
+scenario -- 15 min in groups, 10 min discussion
+
+6:45 -- 7:00 Dabbish et al -- key points \& discussion
+
+7:00 -- 7:15 Activity: write a publicly posted email
+
+\begin{itemize}
+\item
+  to the team member who just missed the first deadline on a
+  semester-long project (Weds)
+\item
+  to the rest of your team explaining what happened \& how you'll make
+  it up (Thurs)
+\item
+  individual in-class writing that must be posted to Canvas discussion
+  for day's participation grade
+\end{itemize}
+
+7:15 -- 7:30 Break -- hand back assignments \& review discussion posts
+
+7:30 -- 7:45 Review posts as examples: key points for collaboration mgt
+
+\begin{itemize}
+\item
+  impacts of transparency on how you handled it
+\item
+  how your understanding of social \& technical components of
+  collaboration context influenced your approach
+\item
+  what priorities are evident in the messages
+\item
+  other points from students?
+\end{itemize}
+
+7:45 -- 7:55 Review Info Seeking: pain points, score distribution
+
+7:55 -- 8:15 Data pitches (provide guidelines) 10 @ 2 minutes
+
+8:15 -- 8:35 Team breakouts (provide guidelines)
+
+\begin{itemize}
+\item
+  use Google Docs for concurrent editing
+\item
+  create team project repo
+\item
+  paste in priorities from GD \& commit as txt/md
+\end{itemize}
+
+8:35 -- 8:45 Discuss: your process \& collective criteria for
+prioritizing data sets
+
+\end{document}

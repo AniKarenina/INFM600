@@ -1,0 +1,112 @@
+INFM 600 Post Mortem Notes
+
+12/19/2016
+
+Creating repo with lesson plans in Markdown, syllabus updates with hotlinked URLs, rubrics in both tex and PDF, and slides in pptx and PDF; slides have to be reviewed on a case-by-case basis to sanitize. Tutorials and links to reference material currently linked in Canvas will be added to syllabus as well.
+
+Folder list:
+LessonPlans
+Slides
+Rubrics
+Materials>DiscussionPrompts/Data/Activities/SurveyAndEvals
+
+Overall structural notes:
+
+Would favor eliminating individual assignments (except Info Seeking) in favor of smaller weekly homework assignments that require solving problem sets or completing specific tasks.
+Discussions online were stilted, prompts weren't much of a conversation-starter in this format, so they were essentially like homework essays anyway.
+In general, students didn't seem to understand basics like, references are always included in a section at the end, and you should always include a reference for your data set in written assignments, so these sorts of expectations need to be clearer, along with enforcement of class-established standards (see below.)
+
+Week-by-week notes:
+
+Week 1, Getting started
+
+Send Git tutorials in advance for prior practice and familiarity. Demo with follow-along activity of command line worked well overall. If adding Homework assignments, consider something that requires Git practice.
+Also introduce Markdown, and add this to Homework assignments. Make all course assignments due as Markdown, no Docx. This would prevent some of the issues with assignments submitted as docs instead of R scripts.
+Should include prior/current stats course in pre-course survey.
+
+Week 2, Information seeking
+
+Material covered worked well overall, set good foundation for later use (esp. NOIR). Re-evaluate all readings, consider something focused more strongly on info behavior with activity to translate concepts to a familiar context or problem. An additional resource to consider incorporating is Google's search skills MOOC. Put more limits on the acceptable sources for data: nothing from Kaggle.
+
+Week 3, Turning Data into Information
+
+Update readings with something focused on how to ask questions from data; retain only the Davis 1971 article. Considering pairing with Week 13 material, and going into data mining a little bit. Activities of what questions to ask from data worked fairly well.
+
+Week 4, Collaborating with Data
+
+Update content entirely -- more focus on using tools for group work effectively, other topics? This basically wasn't all that useful, although the students enjoyed the activity. Move up other technical content? Keep the data pitches and in-class rankings of project preferences, but the rest of the material can be shifted. Try to get away from readings that focus on software engineering because data/analytics work is different in nature, falling back on familiar SE is not always helpful to make points.
+
+Week 5, Organizing information
+
+Drop Vardigan et al reading and expand content overall; session ran short. An additional textbook chapter might make sense, or an ARIST piece on information architecture? Consider adding a segment on presenting results for specific audiences, with discussion and case-style examples of how to structure arguments and triangulate/verify findings as part of how information is organized when put to use (so that later, they will know they should go to the effort to triangulate findings and explain outliers, which should be made explicit expectations as well.)
+Consider integrating BPM (see below) so that diagramming info structures is standardized as well, and can be included as part of data cleaning documentation.
+Activities worked well, both the data entry worksheet structure from DataONE, and the activity of setting up a consensus system for organizing team project repositories. However, emphasizing adherence to standards needs to be a bit stronger, perhaps by compiling a list of class-established standards for their repositories, projects, pitches, etc. and linking it from the course site home page.
+
+Week 6, Cleaning Data
+
+Seemed to work well overall, though a bit slow/trivial for some students, so more advanced procedures can be demonstrated, e.g., going beyond Excel if R has already been introduced, or repeating common Excel operations in R. Need to cover normalization processes as many projects had to deal with comparisons across unequal spatial and temporal units. Add an activity using BPM to diagram data cleaning processes.
+
+Week 7, Relational Databases
+
+Some content was too easy for experienced students (so an "advanced" refresher/tutorial might be in order) but the session didn't move too slowly overall.
+Eliminate Helland and Stephens & Plew articles; add an article on wiki-work to improve interpretation of queries' purposes. Do more examples of in-class interpretation of the work that Quarry queries support. Add other tutorials as prep with evidence of completion due at start of class.
+Do Quarry Queries assignment as a weekly homework, structured as it currently is, but with clarification on the parameters of what a "series" of queries is, how to find them, etc. as the system doesn't support easy browsing/searching. Enforce use of LIMIT with concurrent queries, and demonstrate/require careful querying (no *) due to system performance, for in-class activities with Quarry.
+ 
+Week 8, Documenting Data Processing
+
+An Intro to Business Process Modeling could be a smoother point of integration. BPM diagrams could then be part of the deliverable. However, this might need to occur earlier, e.g. with Week 5.
+Activities also needed to be clearer, e.g., walking through the process documentation procedure as a think-aloud, then as a group, before small groups do it. There was confusion about what the activities were focused on - documenting current registration workflow, or designing an optimal one.
+Reinforce the use of documentation standards by adding as expectations to running list established by class.
+Consider adding activity that requires the students to structure the files for the repo to document their work in full, and then adding this to the set of class standards.
+
+Week 9, Basic Descriptive Analysis
+
+The students loved the demo, which was helpful for tying errors in process to the consequences. Went well overall, though activities needed a bit more clarification about end state to deliver.
+
+Week 10, Project Progress Updates
+
+Announce further in advance that "early" progress meetings are possible if groups are prepared, but have all groups reserve a time during appointment hours during the prior week.
+If possible, doing this consult earlier would be more ideal, but this would also require moving some other content around to make it feasible to provide formative feedback at the right stage.
+
+Week 11, Basic Data Visualization
+
+Readings: Keep Hullman & Diakopoulos, Tufte. Drop Bresciani & Eppler and Cairo. Add something that involves a basic guide to interpreting descriptive stats for different types of data, or have this as a homework exercise (can be tied in with Week 9.)
+Demo in R needs to be tested in advance; stumbled on this when using unfamiliar prompts from a tutorial without adequate prior testing or review.
+Some of the most useful details to demonstrate are the ones that will make charts more usable: how to change label font sizes and label text; how to do grouped bar charts as well as line graphs (and when to choose which one).
+If rearranging content allows time, more advanced visualization techniques that would be especially useful would involve plotting data on maps.
+
+Week 12, Data to Information Workflows
+
+Plug workflow management into BPM for better integration. 
+When demoing use of R Studio, use a slower pace so students can follow along and created a knitted HTML document as a homework assignment. This would prevent teams from losing points on their final projects by reinforcing the process of creating (and peer reviewing?) a finished document that's submitted via Git repos.
+Have students complete a basics of Markdown tutorial in advance, or do that as part of Week 1 Git intro activities and make everything due in Markdown. 
+Consider reorganizing this to make it earlier in the semester so that nearly all assignments are due as Markdown in Git repos.
+
+Week 13, Personas & Audiences
+
+Needed to be done earlier so that project presentations were more reflective of audience needs; otherwise, worked well overall. More careful development of sample personas would make the activity go smoother, and using a checklist-reranking task to emphasize different needs within a bounded feature space would make it smoother as well (add a couple of write-in feature options as well.) Remove technical content that dates the persona example systems and distracts students.
+Pair with Week 3, particularly for emphasizing need to decisively target 1-2 audiences with project. Make personas part of repo in syllabus, and make them represent actual project audiences.
+
+Week 14, People's Choice
+
+We covered data mining; arguably, this could be final presentations and have no class during final exams. This would be a very sane approach. Having ideas in advance of what to cover may help, as could seeding the conversation. We ultimately used likes on Canvas posts of topic options to let students vote on their choice of topics, but it takes awhile to resolve this and it's a bit of a nuisance. 
+Doing a studio critique session on draft visuals could be useful as an alternate, especially if there were clients for delivering reports.
+
+Assessment:
+
+Keep the Info-seeking assignment, which worked well.
+Omit Quarry Queries & PBJ assignments as they're already basically covered in in-class activities, or make them homeworks.
+Try to rearrange content and schedule so that Work Plan, data cleaning document, and Progress meeting occur earlier (especially data cleaning & progress meeting).
+Moving Draft R Script and Draft R plot a week earlier each would allow more refinement for final repo.
+Online discussion -- the essays could be alternated with other homeworks, but didn't benefit much from the discussion format as deployed in this class. Rethinking the discussion prompts or simply assigning reflective essays as homeworks could be as effective.
+Develop requirements for class assignment formatting through class activities with Markdown tutorials (have them collaboratively create a class template) during 1st third of the course.
+
+Information Seeking: clarify that data sets need to describe the characteristics of the data, such as their rows, columns, formats (NOIR).
+Quarry Queries: smaller homework assignment/online discussion post (post 1 unique query analysis & reply to 2 others). Define "series of 2+ queries" more clearly, taking into consideration the challenges of browsing Quarry.
+PBJ documentation: axe in favor of a homework assignment but retain in class demo (activity rather than assignment to develop instructions, then do the demo based on them, w/ live instruction editing in shared Google Doc e.g., race to fix the instructions).
+Work Plan: the team progress meeting actually occurred later, so this should be done earlier with some consult time. The work plan requirements should be updated to include data cleaning diagnostics as a component so early advice can be provided.
+Data Cleaning: Split this into 2 other assignments. Make the first 4 bullet items part of the work plan; this will allow moving that consult up a lot. Then make items 5 & 6 go with the R Script draft, so that's an integrated document.
+R Script draft: make clearer that it's a script, not a doc! Making it due as knitted HTML would solve the problem, but then R Studio demo needs to be done earlier to support it.
+R Plot draft: make this due as knitted HTML. Give harder challenges for extra credit, like plotting on a map. The "how it should be interpreted" on these fell shy of true interpretation and generally stopped at reporting, so pushing students to explain what that means for giving recommendations might help. Most students did not update these for the final repo, so making it due as HTML will facilitate fixing that issue.
+Presentation: Remove duration from syllabus. Announce amount of time allowed in class. Most students should be told 10 minutes for a 15 minute slot. Specify no Prezi (requires premium subscription to save files).
+Git package: structure of repo should be standardized a bit more and clearer, e.g., exactly what documents, at a minimum, are expected, and what are examples of supporting documents; what is not expected to appear in repo. Make items 1 & 2 Markdown. Include a persona. Specify no Prezi. Give a range on number of figures (2-4). Consider a slightly higher word limit as 500 was too tight for some, maybe with recommended allocation of proportions of content.

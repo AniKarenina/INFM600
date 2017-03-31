@@ -1,0 +1,7 @@
+Week 14: Data Mining Discussion Prompt
+
+Insert a URL for a current news item related to data mining (not just marketing blog posts) and give a 2-3 sentence summary of the highlights, including how data mining is being applied or discussed. Make sure your news item has not already been posted!
+
+If your news item is the same (but a different source) as another post, add yours as a reply and identify any important differences in the coverage from the different sources.
+
+Finally, identify 1) what kind of data mining functionality is being used (if mentioned), and 2) whether any of the application issues (Fayyad et al, 1996) or challenge and research issues (Chen et al, 2015) from this week's readings were discussed in the article.

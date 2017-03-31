@@ -1,0 +1,94 @@
+\documentclass[]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[unicode=true]{hyperref}
+\hypersetup{
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+\date{}
+
+\begin{document}
+
+\textbf{Lesson Plan Week 8 INFM 600 October 19 \& 20 }
+
+6:00 -- 6:05 Welcome \& overview (5 min)
+
+6:05 -- 6:15 Mid-semester feedback
+
+6:15 -- 6:35 Process documentation overview
+
+Example: SU process analyses
+
+6:35 -- 7:05 Process analysis model activity: think-pair-share
+
+7:05 -- 7:25 Report out: show \textasciitilde{}2 models, ask what's
+missing
+
+7:25 -- 7:35 Break
+
+7:35 -- 7:55 Software development documentation: pros, cons, war stories
+
+-what details for whom and when (Lethbridge et al)
+
+-different methodologies emphasize different documentation
+
+-level of standardization \& practice: field vs context-specific
+
+\begin{quote}
+Data manipulation/processing documentation (Moreau et al)
+\end{quote}
+
+-NASA standards
+
+-detailed prov for replication, usually becomes programmatic
+
+7:55 -- 8:10 Discuss standards: screenshots/diagrams, stepwise \#s,
+exceptions/errors
+
+8:10 -- 8:35 Activity: create how-to guide for using Testudo to register
+
+8:35 -- 8:45 Review models, how this matches to PBJ assignment (assume
+you're in your kitchen and have all the supplies you need)
+
+\end{document}

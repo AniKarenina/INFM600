@@ -1,0 +1,24 @@
+#List of Links:
+
+R plotting tutorials:
+http://www.datacarpentry.org/R-ecology-lesson/05-visualization-ggplot2.html
+
+
+Bad Data visualizations:
+http://data-visualization-software.com/dangers-of-bling-data-visualizations/
+
+https://www.biostat.wisc.edu/~kbroman/topten_worstgraphs/
+
+http://junkcharts.typepad.com/
+
+http://www.statisticshowto.com/misleading-graphs/
+
+
+
+R related case studies with visualizaitons:
+http://ucanalytics.com/blogs/data-visualization-case-study-banking/
+http://ucanalytics.com/blogs/data-visualization-banking-case-lab-2-axes-risk-plots-in-r/
+
+Sample Plots and simple data for the plot type:
+https://excelmaster.co/skewness-of-data/ use the skewness.xlsx dataset
+

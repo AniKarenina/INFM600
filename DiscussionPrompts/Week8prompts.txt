@@ -1,0 +1,9 @@
+Week 8 Discussion Prompt
+
+Choose one of the three prompts for your response; if you can bring in examples from your work experience, this is a great topic for it!
+
+1. Moreau et al (2008) and Lethbridge et al (2003) present complementary views of documentation that focus on different types of processes and artifacts. Where do their views seem to agree and where are they in conflict? How do those points of agreement or conflict reflect important differences in practical work contexts? Give an example of a context where you think their findings or claims wouldn't be as applicable.
+
+2. Moreau et al (2008) describe a vision for documentation that is specific to a given data set or analysis result. What are some of the potential benefits and drawbacks of capturing such fine-grained data provenance? Give one example of potential uses for such provenance in a context other than health care management (that hasn't already been discussed in this thread!)
+
+3. Lethbridge et al (2003) discuss how software engineers interact with several types of process and software documentation, showing that different types of documentation have varying accuracy and usefulness for software engineers. What "types" of documentation do you believe would be of greatest value for information managers and data analysts, and why? How do you think a data analyst versus a decision-maker might want to use documentation of information management processes?

@@ -1,0 +1,41 @@
+Average monthly household energy consumption by state
+
+http://www.eia.gov/electricity/sales_revenue_price/xls/table5_a.xls
+
+Tell them what column headers file will have; step 2 might belong before step 1
+
+1. What factors might influence energy consumption? Probe for: temperatures (seasonal/range), gas usage, daylight hours, average home size, average income
+
+Show map of US
+
+...also geography, what aspects of it? Population density, urbanization, geological features, energy sources
+
+2. Given column headers, think-pair-share on hypotheses to test: price/use, population/price, etc. For each, how should we test it? How should we graph it? What data/source would help triangulate it?
+
+3. What do we predict will be the region/state with the highest cost per kWh, lowest cost per kWh, highest usage, lowest usage, highest bill, lowest bill? Polling tool would be great for this. 
+
+Break students into groups; each group must answer all of part 3 (sorting in Excel)
+
+Then each group gets assigned a combo of testable hypothesis, how to graph data, can also use stats but focus on obvious trends & outliers. 
+
+4. What other data would we need to better understand the results? Where would we look for that data? What query or source should we consult?
+
+http://pib.nic.in/newsite/erelease.aspx?relid=84206
+
+https://en.m.wikipedia.org/wiki/List_of_states_and_union_territories_of_India_by_population
+
+http://www.indianpowermarket.com/2012/09/electricity-prices-in-different-states.html?m=1
+
+http://databank.worldbank.org/data/reports.aspx?source=india_power-sector-review-database
+
+Make into spreadsheet. 
+
+5. For India, what states do you think have lowest & highest household energy use & why?
+
+Show students data sources, explain queries used to find them, discuss how to create comparable spreadsheet from them.
+
+6. Repeat steps 2-3 with India data. 
+
+7. Compare the sets of results. Which country has more variability in energy use? Which costs more? What other data would we need for a good comparison of US & India electricity consumption? (e.g., rural vs urban populations, rates of electrification, policies on pricing and who provides electricity, income levels (cost scaled as percent of income), sources)
+
+8. Perfect world: groups of students do a homework to find the data for assigned comparison questions, do comparisons, and share results.

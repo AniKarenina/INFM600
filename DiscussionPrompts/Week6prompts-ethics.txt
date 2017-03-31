@@ -1,0 +1,16 @@
+Week 6 Discussion: Data Cleaning and...Ethics?
+
+
+Create a thoughtful response to one of the following three sets of prompts--which can include replying to points raised in another post. Note that when discussing ethics, there are no clear-cut "right" or "wrong" answers, although there are definitely some broadly agreed-upon standards of moral conduct (e.g., killing and stealing are bad).
+
+1: Why do you think we paired the topic of ethics and data cleaning? What other weekly topics in the syllabus could we have matched with ethics (and why)? What issues do you think we had in mind when designating Facebook and Twitter data off-limits for team projects?
+
+2: Based on Van den Broeck et al (2005),
+A) What processes could you apply to your project data to screen for "oddities"? What are some example oddities that you might need to check for in your project data?
+B) How would you try to diagnose issues that your screening turns up?
+C) Are there any ethical aspects you might need to take into consideration?
+Be specific, e.g., describe relevant prior expectations, appropriate descriptive tests or procedures, and ethical considerations (all to the best of your understanding) for a couple of specific example attributes/columns in your project data set/s.
+
+3: Of the Ethical Attitudes Measure items in Table 4 of Vitak et al (2016),
+A) Which ones do you consider most important and why? Give an example (real or fictional) of how agreeing versus disagreeing with the statement could affect research results and/or research subjects.
+B) Which ones do you consider least important and why?

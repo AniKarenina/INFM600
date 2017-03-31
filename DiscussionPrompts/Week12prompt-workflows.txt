@@ -1,0 +1,9 @@
+Week 12: Workflow Management Systems Discussion Prompt
+
+The article on WFMS is a little over 20 years old, and in that time, some things have changed in meaningful ways while others haven't.
+
+Identify one current tool or system that can be used for workflow management, and tell us:
+1. What it is & how it can be used for workflow management,
+2. Whether it's more likely to be part of an ad hoc, administrative, or production system,
+3. Whether it suffers from the limitations on WFMS that the article highlights,
+4. How well it compares on the criteria listed in Appendix B (no need to list everything - just note where it's meaningfully different, and ignore OMG CORBA).

@@ -1,0 +1,191 @@
+\documentclass[]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[unicode=true]{hyperref}
+\hypersetup{
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+\date{}
+
+\begin{document}
+
+\textbf{Lesson Plan Week 9 INFM 600 October 26 \& 27 }
+
+• Topics R reading in, basic descriptives
+
+• Readings Quick (n.d.)
+
+• Assignment PBJ Documentation - Individual
+
+• Activities R tutorial; PBJ demo; schedule team meetings
+
+• Guest Lecture Jonathan Brier
+
+6:00 -- 6:05 Welcome \& overview (5 min)
+
+6:05 -- 6:25 PBJ Demo (20-30 min)
+
+- Have class volunteer their procedures to follow while building the PBJ
+
+- Have a volunteer from the class in parallel to you assemble the PBJ
+sandwich, but you take a liberal interpretation of the instructions.
+This maen you may end up with peanut butter and jelly sides down on the
+prep surface (prepare accordingly). Highlight points of deviation and
+potential method for correcting the deviation. Compare the sandwiches at
+the end to the process and to the student's.
+
+Repeat for second documentation.
+
+Touch on ambiguity, assumptions, experience/familiarity with similar
+processes. Connect between the PBJ steps with ways it relates to
+datasets, clean procedures and tools, and skills.
+
+Materials:
+
+Peanut butter jar
+
+Peanut butter individual serve tins
+
+squeeze jelly
+
+jelly in a jar
+
+jelly and peanut butter goober (mixed in same jar)
+
+loaf of bread (unsliced)
+
+loaf of bread (sliced)
+
+bagels
+
+English muffins
+
+4 knife
+
+4 fork
+
+4 spoon
+
+6:25 -- 6:40 Activity -- compile PBJ procedure together in class as a
+discussion-- correcting for assumptions missed in previous steps and
+examples made. Make points connecitng each step to working with data.
+
+-initial datasets and tools
+
+-data cleaning
+
+-data processing
+
+-final product
+
+(up to 4 groups can sign up for in class meeting times
+
+6:40 -- 7:00 Activity -- Content and live Demo follow along -
+
+reading in files R → Rstuido
+
+Manipulation of Files
+
+Terms
+
+Reading in a file
+
+Adding a library (packages)
+
+Using a library
+
+Data manipulation
+
+removing columns
+
+removing entries
+
+combining data
+
+replacing data
+
+Descriptives and Analysis
+
+Mean
+
+Median
+
+Standard Deviation
+
+ANOVA
+
+Git integration
+
+(cheat sheets added in Canvas and announcing important questions with
+answers as they come in) attach(dataframe) mention
+
+7:10 -- 7:35 Activity -- pairs -- manipulate the whalers datasets
+
+Use the Whalers dataset to:
+
+Drop the Remarks column
+
+What is the average age of all the sailors with reported ages?
+
+What is the distribution of height of sailors with reported heights in
+inches?
+
+Figure out something you might want to do to clean or analyze and try
+your analysis. Internet search and R help is your friend.
+
+(Walking around and helping people getting to know Rstudio and answering
+questions for those who are lost or giving challenges for those already
+familiar with R)
+
+7:35 -- 7:50 BREAK -- Schedule Team meetings over the break
+
+7:50 -- 8:05 Activity -- pairs -- interpretation of Whalers R file used
+to clean up the whalers dataset previously used in the class.
+
+Walk around and listen to the groups discussion looking up the
+
+8:05 -- 8:45 In class work time for group projects (flexible as needed
+if previous activities go long or short)
+
+\end{document}

@@ -1,0 +1,85 @@
+\documentclass[]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[unicode=true]{hyperref}
+\hypersetup{
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+\date{}
+
+\begin{document}
+
+\textbf{Lesson Plan Week 14 INFM 600 December 7 \& 8}
+
+6:00 -- 6:05 Welcome \& overview (5 min)
+
+6:05 -- 6:45 Data mining: definitions, history -- Fayyad et al. KDD
+process: how different from project processes? Application areas,
+methods, potential for pairing with AI.
+
+6:45 -- 7:10 Activity: Find R packages, tutorials, reference materials
+for each technique type; identify what type of data it requires; put
+this into a shared GDoc. 20 minutes for activity, 5 minutes to report
+out what kind of data your technique type requires.
+
+7:10 -- 7:20 BREAK -- sign up for presentation slots.
+
+7:20 -- 7:40 Modern data mining -- Chen et al. IoT bkg, other new spaces
+where data mining is being applied (ask for examples from Canvas, other
+examples). Challenges discussed in article. DM + AI = ML
+
+7:40 -- 8:00 Discussion: policy implications of data mining. What does
+this mean in different contexts and industries?
+
+8:00 -- 8:20 Activity: project groups -- review the details on different
+techniques assembled in GDoc. Which methods could you apply? Why would
+you do it or not do it? 15 minutes in groups, 10 minutes to report-out
+by method (for this type, which groups could use it, give an example of
+what it could do)
+
+8:20 -- 8:30 Evaluation for Jonathan
+
+8:30 end early
+
+\end{document}

@@ -1,0 +1,15 @@
+attach(sample1)
+
+plot(var)
+
+plot(var, type="h")
+
+other types... p, l, b, c, o, h, s, S, n
+
+boxplot(var)
+
+plot(wing,color)
+plot(height,color)
+plot(wing,height)
+plot(height,wing)
+
